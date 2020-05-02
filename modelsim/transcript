@@ -1,0 +1,616 @@
+# Loading project pong
+# reading /opt/intelFPGA_lite/18.0/modelsim_ase/linuxaloem/../modelsim.ini
+# Loading project score
+# Compile of score-entity.vhd was successful.
+# Compile of score-rtl.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+# Compile of score-entity.vhd was successful.
+# Compile of score-rtl.vhd failed with 18 errors.
+# 2 compiles, 1 failed with 18 errors.
+# Compile of score-rtl.vhd failed with 22 errors.
+# Compile of score-rtl.vhd failed with 10 errors.
+# Compile of score-rtl.vhd failed with 7 errors.
+# Compile of score-rtl.vhd failed with 5 errors.
+# Compile of score-rtl.vhd failed with 3 errors.
+# Compile of score-rtl.vhd was successful.
+# reading /opt/intelFPGA_lite/18.0/modelsim_ase/linuxaloem/../modelsim.ini
+# Loading project bat
+# Compile of bat-entity.vhd was successful.
+# Compile of bat-rtl.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+# Compile of bat-entity.vhd was successful.
+# Compile of bat-rtl.vhd failed with 2 errors.
+# 2 compiles, 1 failed with 2 errors.
+# Compile of bat-rtl.vhd failed with 4 errors.
+# Compile of bat-rtl.vhd failed with 3 errors.
+# Compile of bat-rtl.vhd was successful.
+# reading /opt/intelFPGA_lite/18.0/modelsim_ase/linuxaloem/../modelsim.ini
+# Loading project debouncer
+# Compile of debouncer-entity.vhd was successful.
+# Compile of debouncer-rtl.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+# Compile of debouncer-rtl.vhd failed with 2 errors.
+# Compile of debouncer-rtl.vhd was successful.
+# reading /opt/intelFPGA_lite/18.0/modelsim_ase/linuxaloem/../modelsim.ini
+# Loading project collision
+# Compile of collision-entity.vhd was successful.
+# Compile of collision-rtl.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+# Compile of collision-rtl.vhd failed with 2 errors.
+# Compile of collision-rtl.vhd was successful.
+# Compile of collision-entity.vhd was successful.
+# Compile of collision-rtl.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+# reading /opt/intelFPGA_lite/18.0/modelsim_ase/linuxaloem/../modelsim.ini
+# Loading project pong
+# Compile of bat-entity.vhd was successful.
+# Compile of bat-rtl.vhd was successful.
+# Compile of collision-entity.vhd was successful.
+# Compile of collision-rtl.vhd was successful.
+# Compile of debouncer-entity.vhd was successful.
+# Compile of debouncer-rtl.vhd was successful.
+# Compile of direction-entity.vhd was successful.
+# Compile of direction-rtl.vhd was successful.
+# Compile of divider-behavior.vhdl was successful.
+# Compile of divider-entity.vhdl was successful.
+# Compile of movement-entity.vhd was successful.
+# Compile of movement-rtl.vhd was successful.
+# Compile of movement_full-entity.vhd was successful.
+# Compile of movement_full-rtl.vhd was successful.
+# Compile of pong-entity.vhd was successful.
+# Compile of pong-rtl.vhd failed with 15 errors.
+# Compile of score-entity.vhd was successful.
+# Compile of score-rtl.vhd was successful.
+# 18 compiles, 1 failed with 15 errors.
+# Compile of bat-entity.vhd was successful.
+# Compile of bat-rtl.vhd was successful.
+# Compile of collision-entity.vhd was successful.
+# Compile of collision-rtl.vhd was successful.
+# Compile of debouncer-entity.vhd was successful.
+# Compile of debouncer-rtl.vhd was successful.
+# Compile of direction-entity.vhd was successful.
+# Compile of direction-rtl.vhd was successful.
+# Compile of divider-behavior.vhdl was successful.
+# Compile of divider-entity.vhdl was successful.
+# Compile of movement-entity.vhd was successful.
+# Compile of movement-rtl.vhd was successful.
+# Compile of movement_full-entity.vhd was successful.
+# Compile of movement_full-rtl.vhd was successful.
+# Compile of pong-entity.vhd was successful.
+# Compile of pong-rtl.vhd failed with 5 errors.
+# Compile of score-entity.vhd was successful.
+# Compile of score-rtl.vhd was successful.
+# 18 compiles, 1 failed with 5 errors.
+# Compile of debouncer-entity.vhd was successful.
+# Compile of pong-rtl.vhd failed with 5 errors.
+# 2 compiles, 1 failed with 5 errors.
+# Compile of pong-rtl.vhd failed with 33 errors.
+# Compile of pong-rtl.vhd failed with 33 errors.
+# Compile of pong-rtl.vhd failed with 29 errors.
+# Compile of pong-rtl.vhd failed with 20 errors.
+# Compile of pong-rtl.vhd failed with 15 errors.
+# Compile of pong-rtl.vhd failed with 12 errors.
+# Compile of pong-rtl.vhd failed with 10 errors.
+add wave -position insertpoint ARCHITECTURE
+# Compile of pong-rtl.vhd failed with 3 errors.
+# Compile of pong-rtl.vhd was successful.
+vsim -t ps pong
+# vsim -t ps pong 
+# Start time: 00:59:51 on May 03,2019
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.pong(rtl)
+# Loading ieee.numeric_std(body)
+# Loading work.clock_divider(no_target_specific)
+# Loading work.score(rtl)
+# Loading work.debouncer(rtl)
+# Loading work.bat(rtl)
+# Loading work.movement_full(rtl)
+# Loading work.movement(rtl)
+# ** Fatal: (vsim-3348) Port length (9) does not match actual length (12) for port "/pong/x_axis/m/pos".
+#    Time: 0 ps  Iteration: 0  Instance: /pong/x_axis/m File: /home/student/Desktop/tp78/vhdl/movement-entity.vhd Line: 11
+# FATAL ERROR while loading design
+# Error loading design
+# End time: 00:59:51 on May 03,2019, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+# Compile of bat-entity.vhd was successful.
+# Compile of bat-rtl.vhd was successful.
+# Compile of collision-entity.vhd was successful.
+# Compile of collision-rtl.vhd was successful.
+# Compile of debouncer-entity.vhd was successful.
+# Compile of debouncer-rtl.vhd was successful.
+# Compile of direction-entity.vhd was successful.
+# Compile of direction-rtl.vhd was successful.
+# Compile of divider-behavior.vhdl was successful.
+# Compile of divider-entity.vhdl was successful.
+# Compile of movement-entity.vhd was successful.
+# Compile of movement-rtl.vhd was successful.
+# Compile of movement_full-entity.vhd was successful.
+# Compile of movement_full-rtl.vhd was successful.
+# Compile of pong-entity.vhd was successful.
+# Compile of pong-rtl.vhd was successful.
+# Compile of score-entity.vhd was successful.
+# Compile of score-rtl.vhd was successful.
+# 18 compiles, 0 failed with no errors.
+vsim -t ps pong
+# vsim -t ps pong 
+# Start time: 01:00:46 on May 03,2019
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.pong(rtl)
+# Loading ieee.numeric_std(body)
+# Loading work.clock_divider(no_target_specific)
+# Loading work.score(rtl)
+# Loading work.debouncer(rtl)
+# Loading work.bat(rtl)
+# Loading work.movement_full(rtl)
+# Loading work.movement(rtl)
+# ** Fatal: (vsim-3350) Generic "WIDTH" has not been given a value.
+#    Time: 0 ps  Iteration: 0  Instance: /pong/x_axis/m File: /home/student/Desktop/tp78/vhdl/movement-entity.vhd Line: 5
+# FATAL ERROR while loading design
+# Error loading design
+# End time: 01:00:46 on May 03,2019, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+# Compile of bat-entity.vhd was successful.
+# Compile of bat-rtl.vhd was successful.
+# Compile of collision-entity.vhd was successful.
+# Compile of collision-rtl.vhd was successful.
+# Compile of debouncer-entity.vhd was successful.
+# Compile of debouncer-rtl.vhd was successful.
+# Compile of direction-entity.vhd was successful.
+# Compile of direction-rtl.vhd was successful.
+# Compile of divider-behavior.vhdl was successful.
+# Compile of divider-entity.vhdl was successful.
+# Compile of movement-entity.vhd was successful.
+# Compile of movement-rtl.vhd was successful.
+# Compile of movement_full-entity.vhd was successful.
+# Compile of movement_full-rtl.vhd was successful.
+# Compile of pong-entity.vhd was successful.
+# Compile of pong-rtl.vhd was successful.
+# Compile of score-entity.vhd was successful.
+# Compile of score-rtl.vhd was successful.
+# 18 compiles, 0 failed with no errors.
+vsim -t ps pong
+# vsim -t ps pong 
+# Start time: 01:03:17 on May 03,2019
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.pong(rtl)
+# Loading ieee.numeric_std(body)
+# Loading work.clock_divider(no_target_specific)
+# Loading work.score(rtl)
+# Loading work.debouncer(rtl)
+# Loading work.bat(rtl)
+# Loading work.movement_full(rtl)
+# Loading work.movement(rtl)
+# ** Fatal: (vsim-3350) Generic "WIDTH" has not been given a value.
+#    Time: 0 ps  Iteration: 0  Instance: /pong/x_axis/m File: /home/student/Desktop/tp78/vhdl/movement-entity.vhd Line: 5
+# FATAL ERROR while loading design
+# Error loading design
+# End time: 01:03:17 on May 03,2019, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+# Compile of bat-entity.vhd was successful.
+# Compile of bat-rtl.vhd was successful.
+# Compile of collision-entity.vhd was successful.
+# Compile of collision-rtl.vhd was successful.
+# Compile of debouncer-entity.vhd was successful.
+# Compile of debouncer-rtl.vhd was successful.
+# Compile of direction-entity.vhd was successful.
+# Compile of direction-rtl.vhd was successful.
+# Compile of divider-behavior.vhdl was successful.
+# Compile of divider-entity.vhdl was successful.
+# Compile of movement-entity.vhd was successful.
+# Compile of movement-rtl.vhd was successful.
+# Compile of movement_full-entity.vhd failed with 1 errors.
+# Compile of movement_full-rtl.vhd was successful.
+# Compile of pong-entity.vhd was successful.
+# Compile of pong-rtl.vhd was successful.
+# Compile of score-entity.vhd was successful.
+# Compile of score-rtl.vhd was successful.
+# 18 compiles, 1 failed with 1 error.
+# Compile of bat-entity.vhd was successful.
+# Compile of bat-rtl.vhd was successful.
+# Compile of collision-entity.vhd was successful.
+# Compile of collision-rtl.vhd was successful.
+# Compile of debouncer-entity.vhd was successful.
+# Compile of debouncer-rtl.vhd was successful.
+# Compile of direction-entity.vhd was successful.
+# Compile of direction-rtl.vhd was successful.
+# Compile of divider-behavior.vhdl was successful.
+# Compile of divider-entity.vhdl was successful.
+# Compile of movement-entity.vhd was successful.
+# Compile of movement-rtl.vhd was successful.
+# Compile of movement_full-entity.vhd failed with 1 errors.
+# Compile of movement_full-rtl.vhd was successful.
+# Compile of pong-entity.vhd was successful.
+# Compile of pong-rtl.vhd was successful.
+# Compile of score-entity.vhd was successful.
+# Compile of score-rtl.vhd was successful.
+# 18 compiles, 1 failed with 1 error.
+# Compile of bat-entity.vhd was successful.
+# Compile of bat-rtl.vhd was successful.
+# Compile of collision-entity.vhd was successful.
+# Compile of collision-rtl.vhd was successful.
+# Compile of debouncer-entity.vhd was successful.
+# Compile of debouncer-rtl.vhd was successful.
+# Compile of direction-entity.vhd was successful.
+# Compile of direction-rtl.vhd was successful.
+# Compile of divider-behavior.vhdl was successful.
+# Compile of divider-entity.vhdl was successful.
+# Compile of movement-entity.vhd was successful.
+# Compile of movement-rtl.vhd was successful.
+# Compile of movement_full-entity.vhd failed with 1 errors.
+# Compile of movement_full-rtl.vhd was successful.
+# Compile of pong-entity.vhd was successful.
+# Compile of pong-rtl.vhd was successful.
+# Compile of score-entity.vhd was successful.
+# Compile of score-rtl.vhd was successful.
+# 18 compiles, 1 failed with 1 error.
+# Compile of movement_full-entity.vhd was successful.
+# Compile of bat-entity.vhd was successful.
+# Compile of bat-rtl.vhd was successful.
+# Compile of collision-entity.vhd was successful.
+# Compile of collision-rtl.vhd was successful.
+# Compile of debouncer-entity.vhd was successful.
+# Compile of debouncer-rtl.vhd was successful.
+# Compile of direction-entity.vhd was successful.
+# Compile of direction-rtl.vhd was successful.
+# Compile of divider-behavior.vhdl was successful.
+# Compile of divider-entity.vhdl was successful.
+# Compile of movement-entity.vhd was successful.
+# Compile of movement-rtl.vhd was successful.
+# Compile of movement_full-entity.vhd was successful.
+# Compile of movement_full-rtl.vhd was successful.
+# Compile of pong-entity.vhd was successful.
+# Compile of pong-rtl.vhd was successful.
+# Compile of score-entity.vhd was successful.
+# Compile of score-rtl.vhd was successful.
+# 18 compiles, 0 failed with no errors.
+vsim -t ps pong
+# vsim -t ps pong 
+# Start time: 01:05:37 on May 03,2019
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.pong(rtl)
+# Loading ieee.numeric_std(body)
+# Loading work.clock_divider(no_target_specific)
+# Loading work.score(rtl)
+# Loading work.debouncer(rtl)
+# Loading work.bat(rtl)
+# Loading work.movement_full(rtl)
+# Loading work.movement(rtl)
+# ** Fatal: (vsim-3350) Generic "WIDTH" has not been given a value.
+#    Time: 0 ps  Iteration: 0  Instance: /pong/x_axis/m File: /home/student/Desktop/tp78/vhdl/movement-entity.vhd Line: 5
+# FATAL ERROR while loading design
+# Error loading design
+# End time: 01:05:37 on May 03,2019, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+# Compile of bat-entity.vhd was successful.
+# Compile of bat-rtl.vhd was successful.
+# Compile of collision-entity.vhd was successful.
+# Compile of collision-rtl.vhd was successful.
+# Compile of debouncer-entity.vhd was successful.
+# Compile of debouncer-rtl.vhd was successful.
+# Compile of direction-entity.vhd was successful.
+# Compile of direction-rtl.vhd was successful.
+# Compile of divider-behavior.vhdl was successful.
+# Compile of divider-entity.vhdl was successful.
+# Compile of movement-entity.vhd was successful.
+# Compile of movement-rtl.vhd was successful.
+# Compile of movement_full-entity.vhd was successful.
+# Compile of movement_full-rtl.vhd was successful.
+# Compile of pong-entity.vhd was successful.
+# Compile of pong-rtl.vhd was successful.
+# Compile of score-entity.vhd was successful.
+# Compile of score-rtl.vhd was successful.
+# 18 compiles, 0 failed with no errors.
+vsim -t ps pong
+# vsim -t ps pong 
+# Start time: 01:06:05 on May 03,2019
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.pong(rtl)
+# Loading ieee.numeric_std(body)
+# Loading work.clock_divider(no_target_specific)
+# Loading work.score(rtl)
+# Loading work.debouncer(rtl)
+# Loading work.bat(rtl)
+# Loading work.movement_full(rtl)
+# Loading work.movement(rtl)
+# ** Fatal: (vsim-3348) Port length (1) does not match actual length (12) for port "/pong/x_axis/m/pos".
+#    Time: 0 ps  Iteration: 0  Instance: /pong/x_axis/m File: /home/student/Desktop/tp78/vhdl/movement-entity.vhd Line: 11
+# FATAL ERROR while loading design
+# Error loading design
+# End time: 01:06:06 on May 03,2019, Elapsed time: 0:00:01
+# Errors: 1, Warnings: 0
+# Compile of bat-entity.vhd was successful.
+# Compile of bat-rtl.vhd was successful.
+# Compile of collision-entity.vhd was successful.
+# Compile of collision-rtl.vhd was successful.
+# Compile of debouncer-entity.vhd was successful.
+# Compile of debouncer-rtl.vhd was successful.
+# Compile of direction-entity.vhd was successful.
+# Compile of direction-rtl.vhd was successful.
+# Compile of divider-behavior.vhdl was successful.
+# Compile of divider-entity.vhdl was successful.
+# Compile of movement-entity.vhd was successful.
+# Compile of movement-rtl.vhd was successful.
+# Compile of movement_full-entity.vhd was successful.
+# Compile of movement_full-rtl.vhd was successful.
+# Compile of pong-entity.vhd was successful.
+# Compile of pong-rtl.vhd was successful.
+# Compile of score-entity.vhd was successful.
+# Compile of score-rtl.vhd was successful.
+# 18 compiles, 0 failed with no errors.
+vsim -t ps pong
+# vsim -t ps pong 
+# Start time: 01:09:07 on May 03,2019
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.pong(rtl)
+# Loading ieee.numeric_std(body)
+# Loading work.clock_divider(no_target_specific)
+# Loading work.score(rtl)
+# Loading work.debouncer(rtl)
+# Loading work.bat(rtl)
+# Loading work.movement_full(rtl)
+# Loading work.movement(rtl)
+# Loading work.direction(rtl)
+# ** Fatal: (vsim-3348) Port length (12) does not match actual length (9) for port "/pong/y_axis/m/pos".
+#    Time: 0 ps  Iteration: 0  Instance: /pong/y_axis/m File: /home/student/Desktop/tp78/vhdl/movement-entity.vhd Line: 11
+# FATAL ERROR while loading design
+# Error loading design
+# End time: 01:09:08 on May 03,2019, Elapsed time: 0:00:01
+# Errors: 1, Warnings: 0
+# Compile of bat-entity.vhd was successful.
+# Compile of bat-rtl.vhd was successful.
+# Compile of collision-entity.vhd was successful.
+# Compile of collision-rtl.vhd was successful.
+# Compile of debouncer-entity.vhd was successful.
+# Compile of debouncer-rtl.vhd was successful.
+# Compile of direction-entity.vhd was successful.
+# Compile of direction-rtl.vhd was successful.
+# Compile of divider-behavior.vhdl was successful.
+# Compile of divider-entity.vhdl was successful.
+# Compile of movement-entity.vhd was successful.
+# Compile of movement-rtl.vhd was successful.
+# Compile of movement_full-entity.vhd was successful.
+# Compile of movement_full-rtl.vhd was successful.
+# Compile of pong-entity.vhd was successful.
+# Compile of pong-rtl.vhd was successful.
+# Compile of score-entity.vhd was successful.
+# Compile of score-rtl.vhd was successful.
+# 18 compiles, 0 failed with no errors.
+vsim -t ps pong
+# vsim -t ps pong 
+# Start time: 01:13:57 on May 03,2019
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.pong(rtl)
+# Loading ieee.numeric_std(body)
+# Loading work.clock_divider(no_target_specific)
+# Loading work.score(rtl)
+# Loading work.debouncer(rtl)
+# Loading work.bat(rtl)
+# Loading work.movement_full(rtl)
+# Loading work.movement(rtl)
+# ** Fatal: (vsim-3350) Generic "WIDTH" has not been given a value.
+#    Time: 0 ps  Iteration: 0  Instance: /pong/x_axis/m File: /home/student/Desktop/tp78/vhdl/movement-entity.vhd Line: 5
+# FATAL ERROR while loading design
+# Error loading design
+# End time: 01:13:57 on May 03,2019, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+# Compile of bat-entity.vhd was successful.
+# Compile of bat-rtl.vhd was successful.
+# Compile of collision-entity.vhd was successful.
+# Compile of collision-rtl.vhd was successful.
+# Compile of debouncer-entity.vhd was successful.
+# Compile of debouncer-rtl.vhd was successful.
+# Compile of direction-entity.vhd was successful.
+# Compile of direction-rtl.vhd was successful.
+# Compile of divider-behavior.vhdl was successful.
+# Compile of divider-entity.vhdl was successful.
+# Compile of movement-entity.vhd was successful.
+# Compile of movement-rtl.vhd was successful.
+# Compile of movement_full-entity.vhd was successful.
+# Compile of movement_full-rtl.vhd was successful.
+# Compile of pong-entity.vhd was successful.
+# Compile of pong-rtl.vhd was successful.
+# Compile of score-entity.vhd was successful.
+# Compile of score-rtl.vhd was successful.
+# 18 compiles, 0 failed with no errors.
+# Compile of bat-entity.vhd was successful.
+# Compile of bat-rtl.vhd was successful.
+# Compile of collision-entity.vhd was successful.
+# Compile of collision-rtl.vhd was successful.
+# Compile of debouncer-entity.vhd was successful.
+# Compile of debouncer-rtl.vhd was successful.
+# Compile of direction-entity.vhd was successful.
+# Compile of direction-rtl.vhd was successful.
+# Compile of divider-behavior.vhdl was successful.
+# Compile of divider-entity.vhdl was successful.
+# Compile of movement-entity.vhd was successful.
+# Compile of movement-rtl.vhd was successful.
+# Compile of movement_full-entity.vhd was successful.
+# Compile of movement_full-rtl.vhd was successful.
+# Compile of pong-entity.vhd was successful.
+# Compile of pong-rtl.vhd was successful.
+# Compile of score-entity.vhd was successful.
+# Compile of score-rtl.vhd was successful.
+# 18 compiles, 0 failed with no errors.
+vsim -t ps pong
+# vsim -t ps pong 
+# Start time: 01:18:22 on May 03,2019
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.pong(rtl)
+# Loading ieee.numeric_std(body)
+# Loading work.clock_divider(no_target_specific)
+# Loading work.score(rtl)
+# Loading work.debouncer(rtl)
+# Loading work.bat(rtl)
+# Loading work.movement_full(rtl)
+# Loading work.movement(rtl)
+# ** Fatal: (vsim-3350) Generic "WIDTH" has not been given a value.
+#    Time: 0 ps  Iteration: 0  Instance: /pong/x_axis/m File: /home/student/Desktop/tp78/vhdl/movement-entity.vhd Line: 5
+# FATAL ERROR while loading design
+# Error loading design
+# End time: 01:18:23 on May 03,2019, Elapsed time: 0:00:01
+# Errors: 1, Warnings: 0
+# Compile of bat-entity.vhd was successful.
+# Compile of bat-rtl.vhd was successful.
+# Compile of collision-entity.vhd was successful.
+# Compile of collision-rtl.vhd was successful.
+# Compile of debouncer-entity.vhd was successful.
+# Compile of debouncer-rtl.vhd was successful.
+# Compile of direction-entity.vhd was successful.
+# Compile of direction-rtl.vhd was successful.
+# Compile of divider-behavior.vhdl was successful.
+# Compile of divider-entity.vhdl was successful.
+# Compile of movement-entity.vhd was successful.
+# Compile of movement-rtl.vhd was successful.
+# Compile of movement_full-entity.vhd was successful.
+# Compile of movement_full-rtl.vhd was successful.
+# Compile of pong-entity.vhd was successful.
+# Compile of pong-rtl.vhd was successful.
+# Compile of score-entity.vhd was successful.
+# Compile of score-rtl.vhd was successful.
+# 18 compiles, 0 failed with no errors.
+# Compile of pong-rtl.vhd was successful.
+# Compile of bat-entity.vhd was successful.
+# Compile of bat-rtl.vhd was successful.
+# Compile of collision-entity.vhd was successful.
+# Compile of collision-rtl.vhd was successful.
+# Compile of debouncer-entity.vhd was successful.
+# Compile of debouncer-rtl.vhd was successful.
+# Compile of direction-entity.vhd was successful.
+# Compile of direction-rtl.vhd was successful.
+# Compile of divider-behavior.vhdl was successful.
+# Compile of divider-entity.vhdl was successful.
+# Compile of movement-entity.vhd was successful.
+# Compile of movement-rtl.vhd was successful.
+# Compile of movement_full-entity.vhd was successful.
+# Compile of movement_full-rtl.vhd was successful.
+# Compile of pong-entity.vhd was successful.
+# Compile of pong-rtl.vhd was successful.
+# Compile of score-entity.vhd was successful.
+# Compile of score-rtl.vhd was successful.
+# 18 compiles, 0 failed with no errors.
+vsim -t ps pong
+# vsim -t ps pong 
+# Start time: 01:21:32 on May 03,2019
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.pong(rtl)
+# Loading ieee.numeric_std(body)
+# Loading work.clock_divider(no_target_specific)
+# Loading work.score(rtl)
+# Loading work.debouncer(rtl)
+# Loading work.bat(rtl)
+# Loading work.movement_full(rtl)
+# Loading work.movement(rtl)
+# ** Fatal: (vsim-3350) Generic "WIDTH" has not been given a value.
+#    Time: 0 ps  Iteration: 0  Instance: /pong/x_axis/m File: /home/student/Desktop/tp78/vhdl/movement-entity.vhd Line: 5
+# FATAL ERROR while loading design
+# Error loading design
+# End time: 01:21:33 on May 03,2019, Elapsed time: 0:00:01
+# Errors: 1, Warnings: 0
+vsim -t ps pong WIDTH 2 INIT 10
+# vsim -t ps pong WIDTH 2 INIT 10 
+# Start time: 01:22:02 on May 03,2019
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.pong(rtl)
+# ** Error: (vsim-3170) Could not find 'WIDTH'.
+#         Searched libraries:
+#             /home/student/Desktop/tp78/modelsim/work
+# Error loading design
+# End time: 01:22:02 on May 03,2019, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+vsim -t ps pong
+# vsim -t ps pong 
+# Start time: 01:27:08 on May 03,2019
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.pong(rtl)
+# Loading ieee.numeric_std(body)
+# Loading work.clock_divider(no_target_specific)
+# Loading work.score(rtl)
+# Loading work.debouncer(rtl)
+# Loading work.bat(rtl)
+# Loading work.movement_full(rtl)
+# Loading work.movement(rtl)
+# ** Fatal: (vsim-3350) Generic "WIDTH" has not been given a value.
+#    Time: 0 ps  Iteration: 0  Instance: /pong/x_axis/m File: /home/student/Desktop/tp78/vhdl/movement-entity.vhd Line: 5
+# FATAL ERROR while loading design
+# Error loading design
+# End time: 01:27:08 on May 03,2019, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+# Compile of bat-entity.vhd was successful.
+# Compile of bat-rtl.vhd was successful.
+# Compile of collision-entity.vhd was successful.
+# Compile of collision-rtl.vhd was successful.
+# Compile of debouncer-entity.vhd was successful.
+# Compile of debouncer-rtl.vhd was successful.
+# Compile of direction-entity.vhd was successful.
+# Compile of direction-rtl.vhd was successful.
+# Compile of divider-behavior.vhdl was successful.
+# Compile of divider-entity.vhdl was successful.
+# Compile of movement-entity.vhd was successful.
+# Compile of movement-rtl.vhd was successful.
+# Compile of movement_full-entity.vhd was successful.
+# Compile of movement_full-rtl.vhd was successful.
+# Compile of pong-entity.vhd was successful.
+# Compile of pong-rtl.vhd was successful.
+# Compile of score-entity.vhd was successful.
+# Compile of score-rtl.vhd was successful.
+# 18 compiles, 0 failed with no errors.
+# Compile of bat-entity.vhd was successful.
+# Compile of bat-rtl.vhd was successful.
+# Compile of collision-entity.vhd was successful.
+# Compile of collision-rtl.vhd was successful.
+# Compile of debouncer-entity.vhd was successful.
+# Compile of debouncer-rtl.vhd was successful.
+# Compile of direction-entity.vhd was successful.
+# Compile of direction-rtl.vhd was successful.
+# Compile of divider-behavior.vhdl was successful.
+# Compile of divider-entity.vhdl was successful.
+# Compile of movement-entity.vhd was successful.
+# Compile of movement-rtl.vhd was successful.
+# Compile of movement_full-entity.vhd was successful.
+# Compile of movement_full-rtl.vhd was successful.
+# Compile of pong-entity.vhd was successful.
+# Compile of pong-rtl.vhd was successful.
+# Compile of score-entity.vhd was successful.
+# Compile of score-rtl.vhd was successful.
+# 18 compiles, 0 failed with no errors.
+# Compile of bat-entity.vhd was successful.
+# Compile of bat-rtl.vhd was successful.
+# Compile of collision-entity.vhd was successful.
+# Compile of collision-rtl.vhd was successful.
+# Compile of debouncer-entity.vhd was successful.
+# Compile of debouncer-rtl.vhd was successful.
+# Compile of direction-entity.vhd was successful.
+# Compile of direction-rtl.vhd was successful.
+# Compile of divider-behavior.vhdl was successful.
+# Compile of divider-entity.vhdl was successful.
+# Compile of movement-entity.vhd was successful.
+# Compile of movement-rtl.vhd was successful.
+# Compile of movement_full-entity.vhd was successful.
+# Compile of movement_full-rtl.vhd was successful.
+# Compile of pong-entity.vhd was successful.
+# Compile of pong-rtl.vhd was successful.
+# Compile of score-entity.vhd was successful.
+# Compile of score-rtl.vhd was successful.
+# 18 compiles, 0 failed with no errors.

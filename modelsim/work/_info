@@ -1,0 +1,512 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d/home/student/template
+Ebat
+Z0 w1557417400
+Z1 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z4 dC:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/modelsim
+8C:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/bat-entity.vhd
+FC:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/bat-entity.vhd
+l0
+L5
+V=A>15n?MMmCC5[S[3kY1i1
+!s100 J_5mmSg3XAoX4P;8W?SSN0
+Z5 OV;C;10.5b;63
+32
+!s110 1558007035
+!i10b 1
+!s108 1558007035.000000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/bat-entity.vhd|
+!s107 C:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/bat-entity.vhd|
+!i113 1
+Z6 o-work work -2002 -explicit
+Z7 tExplicit 1 CvgOpt 0
+Artl
+R1
+R2
+R3
+DEx4 work 3 bat 0 22 =A>15n?MMmCC5[S[3kY1i1
+8C:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/bat-rtl.vhd
+FC:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/bat-rtl.vhd
+l6
+L1
+VUoJ4AHNzYPa6imBJdc]:b2
+!s100 7VQH^@d9>3X4hiWBlW7bj0
+R5
+32
+Z8 !s110 1558007039
+!i10b 1
+Z9 !s108 1558007039.000000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/bat-rtl.vhd|
+!s107 C:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/bat-rtl.vhd|
+!i113 1
+R6
+R7
+Eclock_divider
+R0
+R1
+R2
+R3
+R4
+8C:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/divider-entity.vhd
+FC:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/divider-entity.vhd
+l0
+L5
+V48NToMB0Sa@K6F^8<fnO>2
+!s100 B9?eG_ioM1LcfbbHihGNH1
+R5
+32
+Z10 !s110 1558007041
+!i10b 1
+Z11 !s108 1558007041.000000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/divider-entity.vhd|
+!s107 C:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/divider-entity.vhd|
+!i113 1
+R6
+R7
+Ano_target_specific
+R1
+R2
+R3
+DEx4 work 13 clock_divider 0 22 48NToMB0Sa@K6F^8<fnO>2
+8C:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/divider-behavior.vhd
+FC:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/divider-behavior.vhd
+l8
+L1
+VzoVf0[PW>QoLFRA<eRIRE0
+!s100 i0mUcd8F4N7KGnGDP>K852
+R5
+32
+R10
+!i10b 1
+R11
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/divider-behavior.vhd|
+!s107 C:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/divider-behavior.vhd|
+!i113 1
+R6
+R7
+Ecollision
+R0
+R2
+R3
+R4
+8C:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/collision-entity.vhd
+FC:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/collision-entity.vhd
+l0
+L4
+V`>kmgeW]DAOz8SdmK1Nzg2
+!s100 RbOzDLj^=]iSW0NZGZBNe2
+R5
+32
+R8
+!i10b 1
+R9
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/collision-entity.vhd|
+!s107 C:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/collision-entity.vhd|
+!i113 1
+R6
+R7
+Artl
+R2
+R3
+DEx4 work 9 collision 0 22 `>kmgeW]DAOz8SdmK1Nzg2
+8C:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/collision-rtl.vhd
+FC:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/collision-rtl.vhd
+l3
+L1
+Vb4oO[WkWOQFN9Kkf=@HRB0
+!s100 I419fHC95_NE_=`:4N:SK1
+R5
+32
+R8
+!i10b 1
+R9
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/collision-rtl.vhd|
+!s107 C:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/collision-rtl.vhd|
+!i113 1
+R6
+R7
+Ecollision2
+R0
+R2
+R3
+R4
+8C:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/collision2-entity.vhd
+FC:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/collision2-entity.vhd
+l0
+L4
+VXlR?mGccEL5T>P@CezO`k2
+!s100 MkehG;WHVK4i8U3_ga3_@3
+R5
+32
+Z12 !s110 1557745514
+!i10b 1
+Z13 !s108 1557745514.000000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/collision2-entity.vhd|
+!s107 C:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/collision2-entity.vhd|
+!i113 1
+R6
+R7
+Artl
+R2
+R3
+DEx4 work 10 collision2 0 22 XlR?mGccEL5T>P@CezO`k2
+8C:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/collision2-rtl.vhd
+FC:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/collision2-rtl.vhd
+l3
+L1
+VQK`<?Z@97zlo_ZfSg`ilA2
+!s100 ]N`5IW9EIkZBEC>4OD98N1
+R5
+32
+R12
+!i10b 1
+R13
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/collision2-rtl.vhd|
+!s107 C:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/collision2-rtl.vhd|
+!i113 1
+R6
+R7
+Edebouncer
+R0
+R2
+R3
+R4
+8C:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/debouncer-entity.vhd
+FC:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/debouncer-entity.vhd
+l0
+L4
+V[JgkzT]48za[<XhA:=:7f1
+!s100 iM39X:_O`EbOM2AdzM1@N1
+R5
+32
+R8
+!i10b 1
+R9
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/debouncer-entity.vhd|
+!s107 C:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/debouncer-entity.vhd|
+!i113 1
+R6
+R7
+Artl
+R2
+R3
+DEx4 work 9 debouncer 0 22 [JgkzT]48za[<XhA:=:7f1
+8C:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/debouncer-rtl.vhd
+FC:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/debouncer-rtl.vhd
+l6
+L1
+V;Ge9jV`oJ=N8=5UDTRFKL0
+!s100 =;Ni:X;oa8XOiN>[7];DJ3
+R5
+32
+Z14 !s110 1558007040
+!i10b 1
+R9
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/debouncer-rtl.vhd|
+!s107 C:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/debouncer-rtl.vhd|
+!i113 1
+R6
+R7
+Edirection
+R0
+R2
+R3
+R4
+8C:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/direction-entity.vhd
+FC:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/direction-entity.vhd
+l0
+L4
+V7ceF4JDHBQoH94ig9SS`U2
+!s100 NC7a>7Q[2lEH]?MPoHRF20
+R5
+32
+R14
+!i10b 1
+Z15 !s108 1558007040.000000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/direction-entity.vhd|
+!s107 C:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/direction-entity.vhd|
+!i113 1
+R6
+R7
+Artl
+R2
+R3
+DEx4 work 9 direction 0 22 7ceF4JDHBQoH94ig9SS`U2
+8C:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/direction-rtl.vhd
+FC:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/direction-rtl.vhd
+l5
+L1
+VRAWchdJb]aH9JILEO`AV@1
+!s100 ^D43RPgCC0::I;C9Sg3be3
+R5
+32
+R14
+!i10b 1
+R15
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/direction-rtl.vhd|
+!s107 C:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/direction-rtl.vhd|
+!i113 1
+R6
+R7
+Emovement
+R0
+R2
+R3
+R4
+8C:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/movement-entity.vhd
+FC:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/movement-entity.vhd
+l0
+L4
+VD^Yddf7jZX>INaN>Q[<Mi3
+!s100 c450LAANE3BzLzFUz;3?53
+R5
+32
+R14
+!i10b 1
+R15
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/movement-entity.vhd|
+!s107 C:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/movement-entity.vhd|
+!i113 1
+R6
+R7
+Artl
+R2
+R3
+Z16 DEx4 work 8 movement 0 22 D^Yddf7jZX>INaN>Q[<Mi3
+8C:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/movement-rtl.vhd
+FC:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/movement-rtl.vhd
+l5
+L1
+V=XXm`@YP1d:bXa7OB[`A:3
+!s100 `RZS?[38l>`5=GhLFViU@1
+R5
+32
+R14
+!i10b 1
+R15
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/movement-rtl.vhd|
+!s107 C:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/movement-rtl.vhd|
+!i113 1
+R6
+R7
+Emovement_full
+R0
+R2
+R3
+R4
+8C:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/movement_full-entity.vhd
+FC:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/movement_full-entity.vhd
+l0
+L4
+V0AD^@K9MeG]DYS;<NX2@_2
+!s100 Y[7Fd@@SR8CneR8=1>Z4:1
+R5
+32
+R14
+!i10b 1
+R15
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/movement_full-entity.vhd|
+!s107 C:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/movement_full-entity.vhd|
+!i113 1
+R6
+R7
+Artl
+R16
+R2
+R3
+Z17 DEx4 work 13 movement_full 0 22 0AD^@K9MeG]DYS;<NX2@_2
+8C:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/movement_full-rtl.vhd
+FC:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/movement_full-rtl.vhd
+l11
+L1
+VC2b_LT0EemH65BYc[Fz7j1
+!s100 DAjIRK>KIR=h<_MC`4hg80
+R5
+32
+R14
+!i10b 1
+R15
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/movement_full-rtl.vhd|
+!s107 C:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/movement_full-rtl.vhd|
+!i113 1
+R6
+R7
+Ename
+w1558007679
+R2
+R3
+R4
+Z18 8C:\Users\amanb.DESKTOP-ODLI3IU\Desktop\tp78\tp78\modelsim\exam.vhd
+Z19 FC:\Users\amanb.DESKTOP-ODLI3IU\Desktop\tp78\tp78\modelsim\exam.vhd
+l0
+L4
+V>NGe3Q0>Uz7BRED:^d^Rc2
+!s100 >^NIDLkMR<g6_?[>PA7>o2
+R5
+32
+!s110 1558007732
+!i10b 1
+!s108 1558007732.000000
+Z20 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\amanb.DESKTOP-ODLI3IU\Desktop\tp78\tp78\modelsim\exam.vhd|
+!s107 C:\Users\amanb.DESKTOP-ODLI3IU\Desktop\tp78\tp78\modelsim\exam.vhd|
+!i113 1
+R6
+R7
+Epong
+R0
+R2
+R3
+R4
+8C:\Users\amanb.DESKTOP-ODLI3IU\Desktop\tp78\tp78\vhdl\pong-entity.vhd
+FC:\Users\amanb.DESKTOP-ODLI3IU\Desktop\tp78\tp78\vhdl\pong-entity.vhd
+l0
+L4
+V1j]`n0Hi2VL?85dH61eij3
+!s100 <o:=^OG>LV[le63>292WX3
+R5
+32
+R10
+!i10b 1
+R11
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\amanb.DESKTOP-ODLI3IU\Desktop\tp78\tp78\vhdl\pong-entity.vhd|
+!s107 C:\Users\amanb.DESKTOP-ODLI3IU\Desktop\tp78\tp78\vhdl\pong-entity.vhd|
+!i113 1
+R6
+R7
+Artl
+R17
+R2
+R3
+DEx4 work 4 pong 0 22 1j]`n0Hi2VL?85dH61eij3
+8C:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/pong-rtl.vhd
+FC:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/pong-rtl.vhd
+l39
+L1
+VXA];9Nh9^WXIl3D>3_n7D1
+!s100 [cG<mhRF12<E]AR6hd^9<3
+R5
+32
+R10
+!i10b 1
+R11
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/pong-rtl.vhd|
+!s107 C:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/pong-rtl.vhd|
+!i113 1
+R6
+R7
+Epong2
+R0
+R2
+R3
+R4
+8C:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/pong2-entity.vhd
+FC:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/pong2-entity.vhd
+l0
+L4
+V3`8=YBj1GPL<J0YEfEz6I0
+!s100 DhB8Q@20T^W<MbZR=mJ4j0
+R5
+32
+!s110 1557745513
+!i10b 1
+Z21 !s108 1557745513.000000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/pong2-entity.vhd|
+!s107 C:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/pong2-entity.vhd|
+!i113 1
+R6
+R7
+Artl
+R17
+R2
+R3
+DEx4 work 5 pong2 0 22 3`8=YBj1GPL<J0YEfEz6I0
+8C:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/pong2-rtl.vhd
+FC:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/pong2-rtl.vhd
+l40
+L1
+Vnb>?YL?G^;DLD[ZK`m1Ne3
+!s100 zJGcAnd_e@2nI;EgGFS9g3
+R5
+32
+R12
+!i10b 1
+R21
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/pong2-rtl.vhd|
+!s107 C:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/pong2-rtl.vhd|
+!i113 1
+R6
+R7
+Escore
+R0
+R1
+R2
+R3
+R4
+8C:\Users\amanb.DESKTOP-ODLI3IU\Desktop\tp78\tp78\vhdl\score-entity.vhd
+FC:\Users\amanb.DESKTOP-ODLI3IU\Desktop\tp78\tp78\vhdl\score-entity.vhd
+l0
+L5
+VIDDPEW1bE`UdzB2ZS]FJ62
+!s100 3@YJg]<01^=MPDG`eaCGa0
+R5
+32
+R10
+!i10b 1
+R11
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\amanb.DESKTOP-ODLI3IU\Desktop\tp78\tp78\vhdl\score-entity.vhd|
+!s107 C:\Users\amanb.DESKTOP-ODLI3IU\Desktop\tp78\tp78\vhdl\score-entity.vhd|
+!i113 1
+R6
+R7
+Artl
+R1
+R2
+R3
+DEx4 work 5 score 0 22 IDDPEW1bE`UdzB2ZS]FJ62
+8C:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/score-rtl.vhd
+FC:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/score-rtl.vhd
+l18
+L1
+V8TGJ]bO@@OQ4NX_?@?IgJ2
+!s100 AVRYUMNiDzFZ_NR<=n3_T0
+R5
+32
+R10
+!i10b 1
+R11
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/score-rtl.vhd|
+!s107 C:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/score-rtl.vhd|
+!i113 1
+R6
+R7
+Eutility
+w1558007625
+R2
+R3
+R4
+R18
+R19
+l0
+L4
+VXX>Ngc]56V>TfH=QJ@nS51
+!s100 aECmaZ3E=Dd54MnBARD5F0
+R5
+32
+!s110 1558007646
+!i10b 1
+!s108 1558007646.000000
+R20
+!s107 C:\Users\amanb.DESKTOP-ODLI3IU\Desktop\tp78\tp78\modelsim\exam.vhd|
+!i113 1
+R6
+R7

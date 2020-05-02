@@ -1,0 +1,16 @@
+/home/student/Desktop/tp78/vhdl/direction-entity.vhd {1 {vcom -work work -2002 -explicit -stats=none /home/student/Desktop/tp78/vhdl/direction-entity.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity direction
+
+} {} {}} /home/student/Desktop/tp78/vhdl/direction-rtl.vhd {1 {vcom -work work -2002 -explicit -stats=none /home/student/Desktop/tp78/vhdl/direction-rtl.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Compiling architecture rtl of direction
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading entity direction
+
+} {} {}}

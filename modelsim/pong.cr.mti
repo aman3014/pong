@@ -1,0 +1,155 @@
+C:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/movement-entity.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/movement-entity.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity movement
+
+} {} {}} C:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/pong-entity.vhd {1 {vcom -work work -2002 -explicit -stats=none {C:\Users\amanb.DESKTOP-ODLI3IU\Desktop\tp78\tp78\vhdl\pong-entity.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity pong
+
+} {} {}} C:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/bat-rtl.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/bat-rtl.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Compiling architecture rtl of bat
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading entity bat
+
+} {} {}} C:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/debouncer-rtl.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/debouncer-rtl.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Compiling architecture rtl of debouncer
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading entity debouncer
+
+} {} {}} C:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/movement_full-entity.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/movement_full-entity.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity movement_full
+
+} {} {}} C:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/movement-rtl.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/movement-rtl.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Compiling architecture rtl of movement
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading entity movement
+
+} {} {}} C:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/score-rtl.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/score-rtl.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Compiling architecture rtl of score
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading entity score
+
+} {} {}} C:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/collision-rtl.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/collision-rtl.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Compiling architecture rtl of collision
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading entity collision
+
+} {} {}} C:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/direction-entity.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/direction-entity.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity direction
+
+} {} {}} C:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/movement_full-rtl.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/movement_full-rtl.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Compiling architecture rtl of movement_full
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading entity movement_full
+-- Loading entity movement
+
+} {} {}} C:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/collision-entity.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/collision-entity.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity collision
+
+} {} {}} C:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/score-entity.vhd {1 {vcom -work work -2002 -explicit -stats=none {C:\Users\amanb.DESKTOP-ODLI3IU\Desktop\tp78\tp78\vhdl\score-entity.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity score
+
+} {} {}} C:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/modelsim/exam.vhd {0 {vcom -work work -2002 -explicit -stats=none {C:\Users\amanb.DESKTOP-ODLI3IU\Desktop\tp78\tp78\modelsim\exam.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity name
+-- Compiling architecture archi of name
+** Error: C:\Users\amanb.DESKTOP-ODLI3IU\Desktop\tp78\tp78\modelsim\exam.vhd(13): near ":": (vcom-1576) expecting ';'.
+** Error: C:\Users\amanb.DESKTOP-ODLI3IU\Desktop\tp78\tp78\modelsim\exam.vhd(14): near ":": (vcom-1576) expecting ';'.
+** Error: C:\Users\amanb.DESKTOP-ODLI3IU\Desktop\tp78\tp78\modelsim\exam.vhd(15): near ":": (vcom-1576) expecting ';'.
+** Error: C:\Users\amanb.DESKTOP-ODLI3IU\Desktop\tp78\tp78\modelsim\exam.vhd(17): near ":": (vcom-1576) expecting END.
+
+} {8.0 12.0} {}} C:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/direction-rtl.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/direction-rtl.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Compiling architecture rtl of direction
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading entity direction
+
+} {} {}} C:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/divider-entity.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/divider-entity.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity clock_divider
+
+} {} {}} C:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/bat-entity.vhd {1 {vcom -work work -2002 -explicit -stats=none {C:\Users\amanb.DESKTOP-ODLI3IU\Desktop\tp78\tp78\modelsim\exam.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity name
+
+} {} {}} C:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/debouncer-entity.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/debouncer-entity.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity debouncer
+
+} {} {}} C:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/pong-rtl.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/pong-rtl.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Compiling architecture rtl of pong
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading entity pong
+-- Loading entity movement_full
+
+} {} {}} C:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/divider-behavior.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/amanb.DESKTOP-ODLI3IU/Desktop/tp78/tp78/vhdl/divider-behavior.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Compiling architecture no_target_specific of clock_divider
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading entity clock_divider
+
+} {} {}}
